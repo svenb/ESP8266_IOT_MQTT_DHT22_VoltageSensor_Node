@@ -1,9 +1,9 @@
-/*Dieses Sketch, ist der Prototyp für meinen Sensor für Temperatur / Luftfeuchte / Stromabfrage (Solar)
-   und ggf. andere analoge oder Digitale Sensoren, wie Feuchte Sensor für Plfanzen oder Helligkeitssenor.
-   Es soll als Firmware für alle ESP8266 Boards im Haus dienen.
+/*This sketch, is the prototype for my sensor for temperature / humidity / current sensing (solar)
+   and if necessary other analog or digital sensors, like humidity sensor for plants or brightness sensor.
+   It should serve as firmware for all ESP8266 boards in the house.
 
    ToDo:
-         Wenn SSID und PW noch nicht vorhanden, dann ebenfalls abfragen und in EPROM schreiben
+         If SSID and PW do not exist yet, then also query and write to EPROM
 
 */
 
