@@ -24,7 +24,7 @@
 
 //Adafruit_ADS1115 ads(0x48);  /* Analog Sensor Extender 16bit Version */
 #define   ADC_16BIT_MAX   65536
-
+ 
 
 //Be Aware, change HOST and MQTT Name
 const char* host = "Arbeitszimmer";
